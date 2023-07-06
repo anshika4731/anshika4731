@@ -16,12 +16,12 @@
 <br/>
 
 
-- 🌱 I’m currently learning **Full Stack Development**
-- 👯 I’m looking to collaborate on **LinkedIn**
-- 💬 Ask me about **HTML, CSS and Python**
-- 📫 How to reach me **anshikasaini.cse@gmail.com**
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact **Firefox is not a fox!**
+- 🌱 I’m currently learning **"Full Stack Development"**
+- 👯 I’m looking to collaborate on **"LinkedIn"**
+- 💬 Ask me about **"HTML, CSS and Python"**
+- 📫 How to reach me **"anshikasaini.cse@gmail.com"**
+- 😄 Pronouns: **"She/Her"**
+- ⚡ Fun fact **"Firefox is not a fox!"**
 
 
 <h3 align="left">Languages and Tools:</h3>
