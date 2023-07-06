@@ -1,4 +1,6 @@
 ## Hi there 👋  ![](https://komarev.com/ghpvc/?username=anshika4731)
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <a href="https://twitter.com/Anshika Saini">
   <img align="left" alt="Anshika's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,7 +15,6 @@
 <br/>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **LinkedIn**
