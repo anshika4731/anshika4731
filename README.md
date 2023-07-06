@@ -1,7 +1,7 @@
 ## Hi there 👋  ![](https://komarev.com/ghpvc/?username=anshika4731)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-<a href="https://twitter.com/Anshika Saini">
+<a href="https://twitter.com/anshika_4731">
   <img align="left" alt="Anshika's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anshika2022/">
