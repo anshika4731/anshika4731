@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **"Full Stack Development"**
 - 👯 I’m looking to collaborate on **"LinkedIn"**
-- 💬 Ask me about **"HTML, CSS, JavaScript and Python"**
+- 💬 Ask me about **"Python"**
 - 📫 How to reach me **"anshikasaini.cse@gmail.com"**
 - 😄 Pronouns: **"She/Her"**
 - ⚡ **"Did you know the first website is still online? Check out info.cern.ch!"**
