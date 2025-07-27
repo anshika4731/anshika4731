@@ -16,9 +16,9 @@
 <br/>
 
 
-- 🌱 I’m currently learning **"Full Stack Development"**
-- 👯 I’m looking to collaborate on **"LinkedIn"**
-- 💬 Ask me about **"Python"**
+- 🌱 I’m currently learning **"Backend Development"**
+- 👯 I’m looking to collaborate on **"LinkedIn, Naukri, Instahyre"**
+- 💬 Ask me about **"Python, HTML & CSS"**
 - 📫 How to reach me **"anshikasaini.cse@gmail.com"**
 - 😄 Pronouns: **"She/Her"**
 - ⚡ **"Did you know the first website is still online? Check out info.cern.ch!"**
