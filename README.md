@@ -16,10 +16,10 @@
 <br/>
 
 
-- 🌱 I’m currently learning **"Backend Development"**
+- 🌱 I’m currently deepening my expertise in **"Information Security, GRC, AI"**
 - 👯 I’m looking to collaborate on **"LinkedIn, Naukri, Instahyre"**
-- 💬 Ask me about **"Python, HTML & CSS"**
-- 📫 How to reach me **"anshikasaini.cse@gmail.com"**
+- 💬 Ask me about **"Python, JavaScript, HTML & CSS, AWS, DLP, TPRM, GRC, PaddleOCR, React.js"**
+- 📫 How to reach me **"anshikasaini.cse@gmail.com | (+91) 7037613665"**
 - 😄 Pronouns: **"She/Her"**
 - ⚡ **"Did you know the first website is still online? Check out info.cern.ch!"**
 
